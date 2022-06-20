@@ -1,16 +1,18 @@
-# theapp
+# 0 6 Page+splash
 
-A new Flutter project.
+The app has 6 pages (navigation practice) , custom theme and a splash screen, the splash screen
+is made with a flutter package (flutter_native_splash)
 
-## Getting Started
+The app was made for the first phase of the mtn app academy
 
-This project is a starting point for a Flutter application.
+heres how it looks 👇
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg1.png" width="200"/>
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg2.png" width="200"/>
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg3.png" width="200"/>
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg4.png" width="200"/>
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg5.png" width="200"/>
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg6.png" width="200"/>
+  <img src="https://github.com/more-mr/Flutter-Practice/blob/master/0%206%20Page%2Bsplash/programImgs/programImg7.png" width="200"/>
+</p>
